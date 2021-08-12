@@ -1,0 +1,2 @@
+
+[{'time': '2021-08-12 07:12:53'}, {'CPU': '2.0'}, {'memory': {'total': 1927241728, 'available': 293617664, 'percent': 84.8, 'used': 1373831168, 'free': 137789440}}, {'disk': {'total': 963040858112, 'used': 7093731328, 'free': 955947126784, 'percent': 0.7}}, {'net': {'bytes_sent': 2868588, 'bytes_recv': 63758648, 'packets_sent': 30156}}]
